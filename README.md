@@ -2,7 +2,7 @@
 An archive of the very first version of Unifier
 
 > [!NOTE]
-> This is an obsolete and archived version of Unifier.
+> This is an obsolete and archived version of Unifier. If you need a light version of Unifier, check out [unifier-micro](https://github.com/greeeen-dev/unifier-micro).
 
 ## What is this?
 This is pretty much the very first (or at least, the oldest existing) version of Unifier, made when I was the sole developer and the code wasn't up on GitHub.
